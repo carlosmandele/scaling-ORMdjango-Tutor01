@@ -2,7 +2,7 @@
 ## Dominando o ORM do Django
 
 
-Antes de começar, é necessário preparar o ambiente de desenvolvimento para o Django.
+Antes de começar, é necessário configurar um ambiente de desenvolvimento para o Django.
 
 **Etapa 1: Criar e Ativar um Ambiente Virtual**
 
